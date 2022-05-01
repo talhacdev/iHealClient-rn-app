@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>356273923406-qh06ne02n5td0kh6cceq44rj209982ji.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.356273923406-qh06ne02n5td0kh6cceq44rj209982ji</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>356273923406-6rchjtj2uo5o6412e0kveao8d1mcup1v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFA01g98iGCcllhK0tbCoPvGL-u1ym5KI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356273923406</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.HomeFix</string>
+	<key>PROJECT_ID</key>
+	<string>HomeFix-c15ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>HomeFix-c15ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356273923406:ios:c9e6e4d9abf20651aeaa1f</string>
+	<key>DATABASE_URL</key>
+	<string>https://HomeFix-c15ed.firebaseio.com</string>
+</dict>
+</plist>

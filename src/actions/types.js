@@ -1,0 +1,5 @@
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_SUB_CATEG = 'GET_SUB_CATEG';
+export const GET_PENDING_ORDERS = 'GET_PENDING_ORDERS';
+export const POP_UP_DATE = 'POP_UP_DATE';
+export const NEARBYDRIVER = 'NEARBYDRIVERS';

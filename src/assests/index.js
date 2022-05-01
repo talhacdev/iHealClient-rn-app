@@ -1,0 +1,16 @@
+export const slider = require('./slider.png');
+export const cleaning = require('./cleaning.png');
+export const plumbing = require('./plumbing.png');
+export const eventImg = require('./event.png');
+export const electric = require('./electric.png');
+export const packers = require('./packers.png');
+export const carpenter = require('./carpenter.png');
+export const swich = require('./cleaning.png');
+export const location = require('./location.png');
+export const Home1 = require('./Home1.png');
+export const User1 = require('./User1.png');
+export const Group68 = require('./images/Group68.png');
+export const Building = require('./images/building.png');
+export const logo = require('./images/logo.png');
+export const group371 = require('./images/Group371.png');
+export const walk = require('./images/walk.png');
